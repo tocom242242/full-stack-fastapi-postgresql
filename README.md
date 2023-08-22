@@ -1,5 +1,12 @@
 # Full Stack FastAPI and PostgreSQL - Base Project Generator
 
+This repository is based on [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) with the following modifications:
+
+- Modification 1: Modified how to install poetry.
+- Modification 2: Added specific packages to pyproject.toml.
+- Modification 3: Added nginx.conf for the frontend.
+- Modification 4: Modified Dockerfile in the frontend.
+
 [![Build Status](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql.svg?branch=master)](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql)
 
 Generate a backend and frontend stack using Python, including interactive API documentation.
